@@ -24,7 +24,7 @@
 
 
 # Vectors and Variables
-c(8,1,9, -1, 5, 6) # numerical vector
+c(8, 1, 9, -1, 5, 6) # numerical vector
 c("red", "orange", "yellow", "green", "blue") # character vector
 
 # numerical vector stored as variable (or object) called "x"
