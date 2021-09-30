@@ -73,3 +73,23 @@ num_list.insert(2, 12) #Insert 12 to 2nd position
 num_list.pop(3) # Removes element at 3rd position
 num_list.count(3) # Returns number of elemnts matching term
 num_list.sort() # Sorts list
+print("\n".join(our_list)) #Changed the separator
+print(" and the ".join(our_list)) # Added custom separator
+
+# Tuples: Useful for related pieces of information
+('seq1', 'AATAGTC')
+
+# We can even make a list of tuples
+frog_fasta = [('seq1', 'AATAGTC'),
+              ('seq2', 'AATACTC'),
+              ('seq3', 'AATATTC'),
+              ('seq4', 'AATAGTC'),
+              ('seq5', 'AATAATC')]
+frog_fasta[1]
+
+# Dictionaries: storing pairs of elements (keys & values)
+# Like a comprehensive tuple
+samples =  {'frog1': ['AATAGTC', 'R. sierrae', 'lowland'],
+            'frog2': ['AATAATC', 'R. mucosa', 'highland'],
+            'frog3': ['AATAGTC', 'R. sierrae', 'lowland']
+            }
