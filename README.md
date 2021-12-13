@@ -1,6 +1,5 @@
 # Teaching Materials
-
-## Overview
-This repository is a collection of teach materials and scripts that share a
-portion of what I've learned to save you some time learning it. Everyone should
-have access to the knowledge being shared in this digital era.
+This repository is a collection of teaching materials and scripts that share a
+portion of what I've learned to save students some time learning it. Each script
+is highly commented allowing the reader to work through the script as a
+worksheet.
