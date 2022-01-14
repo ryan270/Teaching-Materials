@@ -1,4 +1,4 @@
-## WORKSHEET CHEET SHEET
+# R CHEET SHEET
 
 ## {{{ WORKSHEET 2: Numbers vs Strings
 # Numbers
